@@ -72,11 +72,11 @@ Most likely <div>, as it is a divider and used commonly with bootstrap.
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+The container with the Flex property will have its children try to fill the space of the container as the flex direction specifies.
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+I am not totally sure what a box model is yet.
 ```
