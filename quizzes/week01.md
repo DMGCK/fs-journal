@@ -15,7 +15,7 @@ Make Directory
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 ```
-Describes the markup of the entire page, including meta information and links. 
+Describes the markup of the entire page, including meta information and links to other files. 
 ```
 
 **4.** What does `HTML` stand for?
@@ -50,13 +50,13 @@ rgba is a property,
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
-the font-family property. Value Helvetica Bold. 
+the font-weight property. Value would be 700+. 
 ```
 
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
 ```
-Most likely <div>, as it is a divider and used commonly with bootstrap.
+The majority of your code belongs inside the body and or main. This assists search engines in actually finding your sites content and showing it to someone.
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
@@ -78,5 +78,5 @@ The container with the Flex property will have its children try to fill the spac
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-I am not totally sure what a box model is yet.
+The CSS box model is the content, padding, border, and margin. Each of these properties except the actual content are directly editable! For the border, you can change not only size, but color and style. Padding, border and margin all work together to make sure each piece of content is spaced correctly on the page.
 ```
