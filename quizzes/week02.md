@@ -22,7 +22,7 @@ let fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']
 What index is the pineapple's current position? How do you know?
 <!-- enter you answer in the space below -->
 ```
-
+Index 2, 0: apple, 1:banana, 2:pineapple. 0 is the beginning.
 ```
 **5.** With these two objects: 
 ```js
