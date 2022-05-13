@@ -40,11 +40,11 @@ Cascading Style Sheets
 ```
 The selector, the properties and the values.
 
-h1 is a selector,
+h1.main-title is a selector, grabbing children of h1 with the class main-title.
 
-rgba is a property,
+Color is a property, describing the color of the text.
 
-(255, 210, 33, .75) is the value of rgba.
+rgba(255, 210, 33, .75) is the value of color, denoting the color of the text.
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
