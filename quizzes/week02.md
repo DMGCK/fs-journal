@@ -3,12 +3,12 @@
 **1.** Which keywords are used to declare a variable in JavaScript?
 <!-- enter you answer in the space below -->
 ```
-
+Let, Var, and const.
 ```
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
 ```
-
+a first class object (that is also data????) that performs a task or calculates a value.
 ```
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
@@ -47,12 +47,12 @@ for ( let i = 0; i < arr.length; _______ ) {
 ```
 <!-- enter you answer in the space below -->
 ```
-
+i++, possibly an iterator.
 ```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
-
+The DOM stands for Document Object Model.
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
@@ -63,10 +63,10 @@ for ( let i = 0; i < arr.length; _______ ) {
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
 ```
-
+a parameter is the alias for data in a function, whereas the argument is the actual data passed from somewhere else.
 ```
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
 ```
-
+a primitive represents a single value, whereas a reference... uhh, references a value from another source. Sometimes these references can edit the original value that was referenced.
 ```
