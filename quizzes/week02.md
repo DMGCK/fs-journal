@@ -14,6 +14,17 @@ a first class object (that is also data????) that performs a task or calculates 
 <!-- enter you answer in the space below -->
 ```
 
+S: Single responsibility. Each thing has *only one responsibility.* If one thing does 20 things, then if you edit the 1 everything breaks!
+
+O: Open for extension, Closed for modification.
+
+L: If you reference something, you should be able to use something that is structured the same without being the same object.
+
+I: many smaller *interfaces* are better than one general purpose interface
+
+D: depend upon functions that can take any of its inputs, not just one.
+
+
 ```
 **4.** Given this array: 
 ```js
@@ -32,13 +43,15 @@ let them = { name:"Them", hair: false, friends: [] }
 how would you .push the `them` object into the `you` object's array of friends?
 <!-- enter you answer in the space below -->
 ```
-
+you.friends.push(them)
 ```
 
 **6.** Give an example of a JavaScript `Conditional`:
 <!-- enter you answer in the space below -->
 ```
-
+if (this == conditional) {
+  return true;
+}
 ```
 **7.** In the `for loop` below, what is the name of the piece belongs inside the empty "______" space? What would you put here to increase `i` by one on every iteration?
 ```js
@@ -52,13 +65,15 @@ i++, possibly an iterator.
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
-The DOM stands for Document Object Model.
+The DOM stands for Document Object Model. Everything begins with the document, then each other piece can be accessed through the document.
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
+Primitives: Bools, Null, Undefined, Number, BigInt, String, and symbol.
 
+Objects: Object.
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
